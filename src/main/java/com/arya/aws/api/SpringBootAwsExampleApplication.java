@@ -11,7 +11,7 @@ public class SpringBootAwsExampleApplication {
 
 	@GetMapping("/")
 	public String home(){
-		return "AWS First deployment";
+		return "AWS First deployment Hiiiii";
 	}
 
 	public static void main(String[] args) {
